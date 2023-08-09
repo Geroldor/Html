@@ -1,0 +1,44 @@
+body{
+    background-position: center;
+    background-repeat: space;
+    background-size: cover;
+    
+}
+
+h1{
+    color: #0000FF;
+    font: 50px Stylus BT;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 32%;
+    margin-right: 32%;
+    border-radius: 5%;
+    border: 2px solid #2ac3ff;
+    background-color: #020524;
+}
+
+h1:hover{
+    color: #2ac3ff;
+    cursor: default;
+}
+
+a{
+    align-content: center;
+}
+
+a:hover{
+    color: #2ac3ff;
+    cursor: default;
+    width: 35%;
+    height: 35%;
+}
+
+
+.imagem:hover{
+    align-self: start;
+    width: 135%;
+    height: 135%;
+    cursor: default;
+
+}
